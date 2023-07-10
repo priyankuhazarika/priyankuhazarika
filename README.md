@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there, I'm Priyanku Hazarika! A computer science undergrad and tech enthusiast. I'm passionate about coding and technology, and I've been working with various startups to build exciting applications for the past few years. My expertise lies in using Python, JavaScript, Node.js, React.js, Vue.js, AWS, Databases like MySql, Postgres, Oracle, MongoDB etc. and also new technologies like OCPP(Open Charge Point Protocol)!
 
 <!--
 **priyankuhazarika/priyankuhazarika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
