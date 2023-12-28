@@ -1,6 +1,6 @@
 ### Hi there 😄, 
 
-I'm Priyanku Hazarika! A computer science undergrad and tech enthusiast. I'm passionate about coding and technology, and I've been working with various startups to build exciting applications for the past few years. My expertise lies in using Python, JavaScript, Node.js, React.js, Vue.js, AWS, Databases like MySql, Postgres, Oracle, MongoDB etc. and also new technologies like OCPP(Open Charge Point Protocol)!
+I'm Priyanku Hazarika! A computer science undergrad and tech enthusiast. I'm passionate about coding and technology, and I've been working with various startups to build exciting applications for the past few years. My expertise lies in using Python, JavaScript, Node.js, React.js, Vue.js, AWS, Databases like MySql, Postgres, Oracle, MongoDB etc. and also new technologies like OCPP(Open Charge Point Protocol) and OCPI(Open Charge Point Interface)!
 
 I’m enthusiastic about learning, growing, and contributing to the world through my work in technology and beyond. Wanna get in touch with me? Just shoot out a mail to <hello@priyanku.dev> or connect me on linkedin at <https://www.linkedin.com/in/priyanku-hazarika-b87016137>, or maybe we can meet over a cup of tea ("chai")!
 
